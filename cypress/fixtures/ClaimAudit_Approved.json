@@ -1,0 +1,14 @@
+[
+  {
+    "ClaimStatus": "Approved",
+    "StatusReason": "Looks All Good.",
+    "Comment": "Your claim is approved 1",
+    "InternalComment": "Approved Internal 1"
+  },
+  {
+    "ClaimStatus": "Approved",
+    "StatusReason": "Looks All Good.",
+    "Comment": "Your claim is approved 2",
+    "InternalComment": "Approved Internal 2"
+  }
+]

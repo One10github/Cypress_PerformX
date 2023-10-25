@@ -1,0 +1,14 @@
+[
+  {
+    "ClaimStatus": "Returned",
+    "StatusReason": "Invoice Number not matching",
+    "Comment": "Sorry your claim is returned",
+    "InternalComment": "Claim Returned as the Invoice number is not Matching"
+  },
+  {
+    "ClaimStatus": "Returned",
+    "StatusReason": "Invoice Number not matching",
+    "Comment": "Sorry your claim is returned",
+    "InternalComment": "Claim Returned as the Invoice number is not Matching"
+  }
+]

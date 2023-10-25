@@ -1,0 +1,14 @@
+[
+  {
+    "ClaimStatus": "Rejected",
+    "StatusReason": "Product Details Not Matching",
+    "Comment": "Your claim is rejected as product details are not matching 1",
+    "InternalComment": "Rejected, product details are not matching 1"
+  },
+  {
+    "ClaimStatus": "Rejected",
+    "StatusReason": "Product Details Not Matching",
+    "Comment": "Your claim is rejected as product details are not matching 1",
+    "InternalComment": "Rejected, product details are not matching 1"
+  }
+]
